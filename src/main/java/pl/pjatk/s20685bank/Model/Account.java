@@ -10,7 +10,7 @@ import lombok.With;
 @AllArgsConstructor
 public class Account {
 
-    private Long id;
+    private long id;
     private String name;
-    private Long amount;
+    private double amount;
 }
